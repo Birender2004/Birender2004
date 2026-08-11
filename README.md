@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./github_ai_ml_hero_banner.png" width="100%" alt="Birender Pal Singh - AI/ML Engineer">
+<img src="https://raw.githubusercontent.com/Birender2004/Birender2004/main/github_ai_ml_hero_banner.png" width="100%" alt="Birender Pal Singh - AI/ML Engineer">
 
 </div>
 
