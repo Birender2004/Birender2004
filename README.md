@@ -1,23 +1,6 @@
 <div align="center">
 
-# BIRENDER PAL SINGH
-
-### AI / ML ENGINEER
-
-**Machine Learning · Generative AI · RAG · Python**
-
-Building intelligent applications by combining machine learning,
-generative AI, and backend engineering.
-
-<br>
-
-<a href="https://github.com/Birender2004">
-  <img src="https://img.shields.io/badge/GitHub-Birender2004-181717?style=for-the-badge&logo=github">
-</a>
-&nbsp;
-<a href="mailto:birenderpalsingh04@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<img src="./ai-ml-hero.png" width="100%" alt="Birender Pal Singh - AI/ML Engineer">
 
 </div>
 
@@ -33,8 +16,7 @@ generative AI, and backend engineering.
 
 **AI Document Intelligence Platform**
 
-Exploring intelligent document processing,
-retrieval-augmented generation, and LLM-powered applications.
+Exploring intelligent document processing, retrieval-augmented generation, and LLM-powered applications.
 
 </td>
 
@@ -44,8 +26,7 @@ retrieval-augmented generation, and LLM-powered applications.
 
 **Generative AI · RAG · LLM Systems**
 
-Strengthening practical AI engineering skills
-through hands-on projects and experimentation.
+Building practical AI applications while strengthening my understanding of AI engineering.
 
 </td>
 </tr>
@@ -57,16 +38,16 @@ through hands-on projects and experimentation.
 
 I'm an **AI/ML enthusiast focused on building practical intelligent systems**.
 
-My current interests span **Machine Learning, Generative AI, RAG applications,
-Python backend development, and data-driven solutions**.
+My current interests span **Machine Learning, Generative AI, RAG applications, Python backend development, and data-driven solutions**.
 
-I enjoy turning concepts into working applications and continuously
-strengthening my understanding of AI engineering.
+I enjoy turning concepts into working applications and continuously improving my engineering skills through hands-on projects.
 
 ```text
 Machine Learning
        ↓
-NLP & Applied AI
+Data & NLP
+       ↓
+Applied Machine Learning
        ↓
 Generative AI
        ↓
