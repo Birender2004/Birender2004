@@ -203,48 +203,6 @@ My repositories also include projects involving Java, SQL, web development, and 
 </tr>
 </table>
 
-🧭 AI / ML JOURNEY
-
-Stage
-
-Focus
-
-01
-
-🧠 Machine Learning Fundamentals
-
-02
-
-📊 Data Analysis & NLP
-
-03
-
-⚙️ Applied Machine Learning
-
-04
-
-🤖 Generative AI
-
-05
-
-🔎 RAG & LLM Systems
-
-06
-
-🚀 AI Engineering
-
-🎯 ENGINEERING FOCUS
-
-▸ Machine Learning systems
-▸ Natural Language Processing
-▸ Recommendation Systems
-▸ Data analysis & processing
-▸ Retrieval-Augmented Generation
-▸ LLM-powered applications
-▸ Python backend development
-▸ SQL & data-driven applications
-▸ APIs & containerized applications
-
 🏆 ACHIEVEMENTS
 
 🎓 Building a strong foundation in Machine Learning and Generative AI
