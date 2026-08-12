@@ -12,9 +12,9 @@
 
 🟢 CURRENTLY BUILDING
 
-AI Document Intelligence Platform
+AI / ML APPLICATIONS
 
-Exploring intelligent document processing, retrieval-augmented generation, and LLM-powered applications.
+Building practical machine-learning and AI applications while strengthening my skills in ML, NLP, Python, and data-driven systems.
 
 </td>
 
@@ -22,9 +22,9 @@ Exploring intelligent document processing, retrieval-augmented generation, and L
 
 🧠 CURRENTLY EXPLORING
 
-Generative AI · RAG · LLM Systems
+GENERATIVE AI · RAG · LLM SYSTEMS
 
-Building practical AI applications while strengthening my understanding of AI engineering.
+Expanding from traditional machine learning into Generative AI, LLM applications, and Retrieval-Augmented Generation.
 
 </td>
 </tr>
@@ -34,7 +34,7 @@ Building practical AI applications while strengthening my understanding of AI en
 
 I'm an AI/ML enthusiast focused on building practical intelligent systems.
 
-My current interests span Machine Learning, Generative AI, RAG applications, Python backend development, and data-driven solutions.
+My current interests span Machine Learning, Natural Language Processing, Generative AI, Python backend development, and data-driven applications.
 
 I enjoy turning concepts into working applications and continuously improving my engineering skills through hands-on projects.
 
@@ -42,11 +42,11 @@ Machine Learning
        ↓
 Data & NLP
        ↓
-Applied Machine Learning
+Applied ML
        ↓
 Generative AI
        ↓
-RAG Systems
+RAG / LLM Systems
        ↓
 AI Engineering
 
@@ -95,78 +95,40 @@ AI Engineering
 
 🚀 FEATURED PROJECTS
 
-A selection of projects representing my journey from Machine Learning fundamentals toward AI engineering and Generative AI.
+Selected projects showcasing my hands-on experience across Machine Learning, NLP, Data Analysis, and Recommendation Systems.
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-🧠 AI Document Intelligence
+⚙️ ML-HUB
 
-RAG · LLMs · Python · FastAPI · Streamlit
+MACHINE LEARNING · PYTHON · DOCKER
 
-An intelligent document-processing platform designed to retrieve relevant information from uploaded documents and generate context-aware responses.
+A machine-learning focused project for experimenting with ML workflows, models, and practical machine-learning applications.
 
-Status: IN DEVELOPMENT
+Core: Python Machine Learning Docker
+
+<br>
+
+<a href="https://github.com/Birender2004/ML-Hub">→ VIEW PROJECT</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-⚙️ ML-Hub
+🛡️ SMS SPAM CLASSIFIER
 
-Machine Learning · Python · Backend · Docker
+NLP · CLASSIFICATION · TF-IDF
 
-A machine-learning focused platform for experimentation, model development, and application building.
+A machine-learning application that classifies SMS messages as spam or legitimate using NLP and text-classification techniques.
 
-Status: ACTIVE
-
-<br>
-
-<a href="https://github.com/Birender2004/ML-Hub">
-View Repository →
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-📱 WhatsApp Chat Analyzer
-
-Python · Data Analysis · NLP
-
-An application for analyzing WhatsApp chat data and extracting useful statistics and insights.
-
-Status: COMPLETED
+Core: Python NLP Scikit-learn TF-IDF
 
 <br>
 
-<a href="https://github.com/Birender2004/WhatsApp-Chat-Analyzer">
-View Repository →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-🛡️ SMS Spam Classifier
-
-NLP · TF-IDF · Naive Bayes · Docker
-
-A machine-learning application that classifies SMS messages as spam or legitimate using NLP techniques.
-
-Status: COMPLETED
-
-<br>
-
-<a href="https://github.com/Birender2004/sms-spam-classifier">
-View Repository →
-</a>
+<a href="https://github.com/Birender2004/sms-spam-classifier">→ VIEW PROJECT</a>
 
 </td>
 
@@ -176,37 +138,65 @@ View Repository →
 
 <td width="50%" valign="top">
 
-📚 Book Recommender System
+📊 WHATSAPP CHAT ANALYZER
 
-Python · Machine Learning · Recommendation Systems
+DATA ANALYSIS · NLP · VISUALIZATION
 
-A recommendation application that generates book recommendations based on user preferences and similarity between items.
+An application that analyzes WhatsApp chat exports to extract statistics, patterns, and meaningful insights from conversations.
 
-Status: COMPLETED
+Core: Python Pandas NLP Data Analysis
 
 <br>
 
-<a href="https://github.com/Birender2004/Book-Recommender-System">
-View Repository →
-</a>
+<a href="https://github.com/Birender2004/WhatsApp-Chat-Analyzer">→ VIEW PROJECT</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-🎬 Movie Recommender System
+📚 BOOK RECOMMENDER SYSTEM
 
-Python · Machine Learning · Recommendation Systems
+MACHINE LEARNING · RECOMMENDATION SYSTEM
 
-A machine-learning based recommendation application for discovering movies based on similarity and user preferences.
+A recommendation system that suggests books based on similarity between items and user preferences.
 
-Status: COMPLETED
+Core: Python Machine Learning Recommendation Systems
 
 <br>
 
-<a href="https://github.com/Birender2004/Movie-Recommender-System">
-View Repository →
-</a>
+<a href="https://github.com/Birender2004/Book-Recommender-System">→ VIEW PROJECT</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+🎬 MOVIE RECOMMENDER SYSTEM
+
+MACHINE LEARNING · RECOMMENDATION SYSTEM
+
+A recommendation application that helps users discover movies based on similarity and preference-driven results.
+
+Core: Python Machine Learning Recommendation Systems
+
+<br>
+
+<a href="https://github.com/Birender2004/Movie-Recommender-System">→ VIEW PROJECT</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+🔎 EXPLORE MORE
+
+My repositories also include projects involving Java, SQL, web development, and application development.
+
+<br><br>
+
+<a href="https://github.com/Birender2004?tab=repositories">→ EXPLORE ALL REPOSITORIES</a>
 
 </td>
 
@@ -232,7 +222,7 @@ View Repository →
 └──────────┬───────────┘
            ↓
 ┌──────────────────────┐
-│  RAG SYSTEMS         │
+│  RAG / LLM SYSTEMS   │
 └──────────┬───────────┘
            ↓
 ┌──────────────────────┐
@@ -241,15 +231,15 @@ View Repository →
 
 🎯 ENGINEERING FOCUS
 
-▸ Retrieval-Augmented Generation
-▸ LLM-powered applications
-▸ Document Intelligence
 ▸ Machine Learning systems
 ▸ Natural Language Processing
+▸ Recommendation Systems
+▸ Data analysis & processing
+▸ Retrieval-Augmented Generation
+▸ LLM-powered applications
 ▸ Python backend development
-▸ SQL & data processing
-▸ APIs & application development
-▸ Cloud & containerized applications
+▸ SQL & data-driven applications
+▸ APIs & containerized applications
 
 📊 GITHUB ACTIVITY
 
