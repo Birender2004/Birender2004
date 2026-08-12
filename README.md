@@ -205,29 +205,33 @@ My repositories also include projects involving Java, SQL, web development, and 
 
 🧭 AI / ML JOURNEY
 
-┌──────────────────────┐
-│  ML FUNDAMENTALS     │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│  DATA & NLP          │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│  APPLIED ML          │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│  GENERATIVE AI       │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│  RAG / LLM SYSTEMS   │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│  AI ENGINEERING      │
-└──────────────────────┘
+Stage
+
+Focus
+
+01
+
+🧠 Machine Learning Fundamentals
+
+02
+
+📊 Data Analysis & NLP
+
+03
+
+⚙️ Applied Machine Learning
+
+04
+
+🤖 Generative AI
+
+05
+
+🔎 RAG & LLM Systems
+
+06
+
+🚀 AI Engineering
 
 🎯 ENGINEERING FOCUS
 
@@ -240,24 +244,6 @@ My repositories also include projects involving Java, SQL, web development, and 
 ▸ Python backend development
 ▸ SQL & data-driven applications
 ▸ APIs & containerized applications
-
-📊 GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Birender2004&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birender2004&layout=compact&theme=github_dark&hide_border=true" height="170">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Birender2004&theme=github-dark-blue&hide_border=true" width="70%">
-
-</div>
 
 🏆 ACHIEVEMENTS
 
